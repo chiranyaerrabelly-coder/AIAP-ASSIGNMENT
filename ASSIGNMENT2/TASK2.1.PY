@@ -1,6 +1,6 @@
 """CSV stats helper.
 
-Provides a function to read a CSV and compute mean, min, max for a column.
+Provides a function to read a CSV and compute mean, min, max for a column..
 
 Contract:
 - Inputs: file_path (str), column (None|int|str), delimiter (str), has_header (bool)
